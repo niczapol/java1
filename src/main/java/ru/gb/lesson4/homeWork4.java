@@ -263,4 +263,5 @@ public class homeWork4 {
         return turnsCount >= SIZE * SIZE;
     }
 
+
 }
